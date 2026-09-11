@@ -25,26 +25,23 @@ Actualmente en **Pycca**, cadena líder de retail para el hogar en Ecuador (80 a
 - SQL para cruzar y validar datos transaccionales
 - Git / GitHub
 
-#### 🚀 Proyecto destacado
+#### Proyectos varios... ###
 **Conciliador Bancario — Python + Tkinter**
 Automaticé la conciliación diaria de múltiples entidades bancarias y de pago con una aplicación de escritorio (empaquetada como `.exe`) con interfaz gráfica en Tkinter, reemplazando cruces de datos que antes se hacían a mano.
 `Stack: Python · Tkinter · pandas`
 
-#### 🤖 Explorando IA
+####  Entrenamiento en IA
 - Agentes de IA
 - Modelos de lenguaje (LLMs)
 - APIs
 - Prompt engineering
 - RAG (Retrieval-Augmented Generation)
 
-#### 📚 Formación y certificaciones
-- Estudiante de 8vo semestre de Administración de Empresas — Universidad de Guayaquil
-- 🏆 Curso de Base de Datos Relacionales — TodoCode (SQL, Microsoft SQL Server)
-- 🏆 Tributación y Finanzas para Negocios — UNEMI
-- 🏆 Curso de Python Profesional — Código Facilito
-- 🏆 Python medio-avanzado — UNEMI
+#### Formación y certificaciones 
+-- Estudiante de 8vo semestre de Administración de Empresas — Universidad de Guayaquil
+-- Curso de Base de Datos Relacionales — TodoCode (SQL, Microsoft SQL Server)
+-- Tributación y Finanzas para Negocios — UNEMI
+-- Curso de Python Profesional — Código Facilito
+-- Python medio-avanzado — UNEMI
 
-#### 📈 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=eavite&show_icons=true&theme=default)
-
-📫 **Contacto:** eduardovite1111@gmail.com · [LinkedIn](https://www.linkedin.com/in/eduardo-vite-le%C3%B3n-b26535227/)
+**Contacto:** eduardovite1111@gmail.com · [LinkedIn](https://www.linkedin.com/in/eduardo-vite-le%C3%B3n-b26535227/)
