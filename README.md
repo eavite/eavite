@@ -40,11 +40,11 @@ Automaticé la conciliación diaria de múltiples entidades bancarias y de pago 
 - Prompt engineering
 - RAG (Retrieval-Augmented Generation)
 
-#### Formación y certificaciones 
--- Estudiante de 8vo semestre de Administración de Empresas — Universidad de Guayaquil
--- Curso de Base de Datos Relacionales — TodoCode (SQL, Microsoft SQL Server)
--- Tributación y Finanzas para Negocios — UNEMI
--- Curso de Python Profesional — Código Facilito
--- Python medio-avanzado — UNEMI
+#### Formación y certificaciones
+- Estudiante de 8vo semestre de Administración de Empresas — Universidad de Guayaquil
+- Curso de Base de Datos Relacionales — TodoCode (SQL, Microsoft SQL Server)
+- Tributación y Finanzas para Negocios — UNEMI
+- Curso de Python Profesional — Código Facilito
+- Python medio-avanzado — UNEMI
 
 **Contacto:** eduardovite1111@gmail.com · [LinkedIn](https://www.linkedin.com/in/eduardo-vite-le%C3%B3n-b26535227/)
